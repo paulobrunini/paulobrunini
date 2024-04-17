@@ -12,17 +12,18 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda&theme=dark)](https://github.com/paulobrunini/Previsao-de-Renda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito&theme=dark)](https://github.com/paulobrunini/Classificacao-de-Credito)
 
-### Connect with me:
+### Connect with me
 
 <a href = "mailto:paulobrunini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulo-brunini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrunini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Details
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrunini&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrunini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
