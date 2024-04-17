@@ -4,13 +4,15 @@
 - 💞️ I’m looking to collaborate on Data Science Projects as a Freelancer or Employee
 - 📫 How to reach me: https://www.linkedin.com/in/paulo-brunini/
 
-### Detalhes
+### Details
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrunini&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrunini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
