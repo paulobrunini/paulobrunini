@@ -17,7 +17,7 @@ Sou um profissional apaixonado por resolver problemas complexos e encontrar opor
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Cartorioebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
