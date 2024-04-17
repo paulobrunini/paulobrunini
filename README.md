@@ -9,10 +9,10 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito&theme=dark)](https://github.com/paulobrunini/Classificacao-de-Credito)
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrunini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
