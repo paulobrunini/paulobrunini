@@ -16,8 +16,6 @@
 
 <a href = "mailto:paulobrunini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulo-brunini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br></br>
 
 ### Details
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrunini&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
