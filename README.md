@@ -2,6 +2,11 @@
 **paulobrunini/paulobrunini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 👋 Hi, I’m @Giovani-Oliveira
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science Projects as a Freelancer or Employee
+- 📫 How to reach me: https://www.linkedin.com/in/giovani-oliveira/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
