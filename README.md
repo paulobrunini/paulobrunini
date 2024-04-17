@@ -8,6 +8,7 @@
 ### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda)](https://github.com/paulobrunini/Previsao-de-Renda)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit)](https://github.com/paulobrunini/Telemarketing_com_Streamlit)
