@@ -4,7 +4,7 @@
 - 👀 I’m a Data Science Lover
 - 📚 Data scientist graduated from EBAC and currently studying an MBA in Data Science and Analytics from USP/Esalq
 - 💞️ I’m looking to collaborate on Data Science Projects as a Freelancer or Employee
-- 📫 How to reach me: https://www.linkedin.com/in/paulo-brunini/
+- 📫 How to reach me: www.linkedin.com/in/paulo-brunini/
 
 ### Projects
 
