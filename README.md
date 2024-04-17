@@ -23,7 +23,8 @@
 ### Details
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrunini&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit)](https://github.com/paulobrunini/Telemarketing_com_Streamlit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 
 <!--
