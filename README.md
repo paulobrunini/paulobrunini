@@ -7,10 +7,10 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit&theme=dark)](https://github.com/paulobrunini/Telemarketing_com_Streamlit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda&theme=dark)](https://github.com/paulobrunini/Previsao-de-Renda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito&theme=dark)](https://github.com/paulobrunini/Classificacao-de-Credito)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit)](https://github.com/paulobrunini/Telemarketing_com_Streamlit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda)](https://github.com/paulobrunini/Previsao-de-Renda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito)](https://github.com/paulobrunini/Classificacao-de-Credito)
 
 ### Connect with me
 
