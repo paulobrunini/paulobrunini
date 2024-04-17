@@ -7,10 +7,10 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=dark)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit&theme=dark)](https://github.com/paulobrunini/Telemarketing_com_Streamlit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda&theme=dark)](https://github.com/paulobrunini/Previsao-de-Renda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito&theme=dark)](https://github.com/paulobrunini/Classificacao-de-Credito)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Criptomoedas&theme=light)](https://github.com/paulobrunini/Previsao-de-Criptomoedas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit&theme=light)](https://github.com/paulobrunini/Telemarketing_com_Streamlit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Previsao-de-Renda&theme=light)](https://github.com/paulobrunini/Previsao-de-Renda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Classificacao-de-Credito&theme=light)](https://github.com/paulobrunini/Classificacao-de-Credito)
 
 ### Connect with me
 
@@ -22,9 +22,6 @@
 
 ### Details
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobrunini&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=paulobrunini&repo=Telemarketing_com_Streamlit)](https://github.com/paulobrunini/Telemarketing_com_Streamlit)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 
 <!--
